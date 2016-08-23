@@ -1,0 +1,23 @@
+{
+  "name": "ninja-tut",
+  "description": "",
+  "main": "",
+  "authors": [
+    "mortl <martin.benes66@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular2"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
