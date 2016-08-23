@@ -7,6 +7,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['home.component.css']
 })
 export class HomeComponent implements OnInit {
+  welcome:string = "Welcome to the Home Page!";
+
+  textboxMsg:string ="Please enter your name";
 
   constructor() { }
 
